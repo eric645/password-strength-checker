@@ -40,7 +40,7 @@ elif score < 10:
     print("Password parser: Strong")
     print("Password Score:", score)
 elif score < 13:
-    print("Password parser: Almost very strong")
+    print("Password parser: Average Pwd")
     print("Password Score:", score)
 elif score < 180:
     print("Password parser: Very strong")
